@@ -9,7 +9,7 @@ on:
       default: ''
      S:
       description: 'services.jar Url'
-      required: true
+      required: false
       default: ''
 jobs:
   build:
